@@ -50,5 +50,12 @@ This project demonstrates stock price prediction using a **Long Short-Term Memor
 
 ---
 
+## Requirements
+- Python 3.x
+- TensorFlow / Keras
+- Pandas
+- NumPy
+- Matplotlib
+- yfinance
 
 
